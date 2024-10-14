@@ -19,6 +19,7 @@ Excel 𝄜: From advanced formulas to pivot tables, I’ve been using Excel to a
 🌱 What I’m learning:
 
 I’m diving deeper into Python🐍 and exploring machine learning to enhance my analytical skills📈.
+
 Always curious about new tools and trends in data visualization, I’m currently exploring Tableau and other BI tools.
 -->
 
