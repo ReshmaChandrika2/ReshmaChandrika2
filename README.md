@@ -13,7 +13,7 @@ SQL🛢: I enjoy the logic behind SQL and love optimizing queries to get just th
 Power BI📊: I’m all about creating clean, interactive reports that tell the full story behind the data.
 
 
-Excel 𝄜: From advanced formulas to pivot tables, I’ve been using Excel to analyze and visualize data for years.
+Excel 𝄜 : From advanced formulas to pivot tables, I’ve been using Excel to analyze and visualize data for years.
 
 
 🌱 What I’m learning:
