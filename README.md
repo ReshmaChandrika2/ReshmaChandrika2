@@ -8,7 +8,11 @@ I hold a Master's degree 🎓 in Advanced Computer Science from the University o
 🔍 What I’m good at:
 
 SQL🛢: I enjoy the logic behind SQL and love optimizing queries to get just the right data.
+
+
 Power BI📊: I’m all about creating clean, interactive reports that tell the full story behind the data.
+
+
 Excel 𝄜: From advanced formulas to pivot tables, I’ve been using Excel to analyze and visualize data for years.
 
 
